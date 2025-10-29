@@ -1,0 +1,1 @@
+A randomly generated identifier: It is a combination of random words used as a placeholder or to create a unique name. On GitHub, for example, "upgraded-octo-giggle" or similar phrases are sometimes used as default repository names. The words "upgraded," "octo" (from octopus), and "giggle" are simply combined to create a distinct, nonsensical name.
